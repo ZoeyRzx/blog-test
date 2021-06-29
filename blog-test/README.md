@@ -1,24 +1,34 @@
 # 自我介绍
 
-### 我叫Zoey，我的爱好是：
+### 我叫Zoey，下面是我的自我介绍
 
+
+
+我的爱好有：
 * 唱歌
 * 跳舞
 * 健身
 * timi
 
-我的前男友有：
+我的专业是：
+1. 精算
+2. 统计
 
-1. 彭于晏
-2. 吴彦祖
-3. 吴亦凡
-4. 胡歌
 
-学过的编程语言有```HTML``` ```CSS``` ```JavaScript```。我写一段给你看看
 
-```javascript
-function f(){
-    console.log('hello world')
-}
+上周学习的内容有：
+* 终端查增改
+* git命令行入门
+* git本地仓库
+* git远程仓库-GitHub
 
-f()
+```
+git remote add origin git@github.com:ZoeyRzx/blog-test.git
+
+git push
+```
+本周学习目标：
+* html全解
+* css全解
+
+；)
